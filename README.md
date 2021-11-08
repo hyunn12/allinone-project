@@ -10,12 +10,28 @@
  
 </div>
 
-### INDEX
+## INDEX
 
 #### 🔗 [개요](#개요)
 #### 🔗 [대표기능 시연영상](#시연영상)
 #### 🔗 [발표자료](#발표)
   
+<br>
+
+## 내 담당 파트
+
+### Admin Service
+
+#### 🔗 [가게정보 관리](https://github.com/hyunn12/allinone-project/blob/main/src-admin/main/webapp/WEB-INF/views/store/infoModify.jsp)
+#### 🔗 [메뉴 관리](https://github.com/hyunn12/allinone-project/blob/main/src-admin/main/webapp/WEB-INF/views/store/menu.jsp)
+#### 🔗 [리뷰 확인](https://github.com/hyunn12/allinone-project/blob/main/src-admin/main/webapp/WEB-INF/views/store/review.jsp)
+
+### User Service - 진행중! 미완성코드
+
+#### 🔗 [Thymeleaf layout 작업](https://github.com/hyunn12/allinone-project/tree/main/src-user/main/resources/templates/layout)
+#### 🔗 [Elasticsearch 이용한 검색서비스](https://github.com/hyunn12/allinone-project/blob/main/src-user/main/resources/templates/es/get.html)
+#### 🔗 [정보게시판](https://github.com/hyunn12/allinone-project/blob/main/src-user/main/resources/templates/board/list.html)
+
 
 <br>
   
